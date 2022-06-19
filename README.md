@@ -1,1 +1,2 @@
-#test Repo
+#test Repo  
+Мой тестовый проект!  
