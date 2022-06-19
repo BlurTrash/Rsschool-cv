@@ -1,4 +1,2 @@
-#test Repo  
-Мой тестовый проект!  
-
-Some text in branch gh-pages
+#About me  
+https://BlurTrash.github.io/Rsschool-cv/cv
